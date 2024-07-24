@@ -1,0 +1,7 @@
+Welcome to Aurora. You're alone on a business trip here when you hear an emergency radio broadcast from your hotel room declaring a zombie invasion! You must evacuate the city within the next three days before the zombies take over - Can you escape in time?
+
+Rules:
+1. You start the game with 40 Health points, and lose 20 each night. This simulates your decreasing chance of survival each night you stay in the city, and ensures that players don't just choose the safest option of staying inside the whole game.
+2. If your Health drops to or below zero, you lose the game.
+3. You can fight a zombie, but if they touch you, you become infected and die instantly. 
+
